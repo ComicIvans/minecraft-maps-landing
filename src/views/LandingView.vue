@@ -64,16 +64,3 @@ import imgLegacySurvival from '@/assets/images/legacy-survival.jpg'
 import imgLegacyCreativo from '@/assets/images/legacy-creativo.jpg'
 import imgLegacySurvivalMamadisimo from '@/assets/images/legacy-survival-mamadisimo.jpg'
 </script>
-
-<style>
-.bg-image {
-  background-size: cover;
-  background-position: center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: -1;
-}
-</style>
