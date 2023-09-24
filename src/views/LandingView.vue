@@ -23,7 +23,6 @@
           :title="'Survival PvP'"
           :url="'https://mc.wupp.dev/mapas/survival-pvp'"
           :bg-image="imgSurvivalVanillaPVP"
-          :enabled="false"
         />
       </div>
       <h2 class="text-3xl font-bold my-4">Archivo de mundos</h2>
